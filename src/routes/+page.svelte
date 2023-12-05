@@ -23,7 +23,7 @@
   
       <div class="max-w-xl space-y-6">
 
-        <h1 class="text-5xl max-lg:text-3xl font-bold">Olá, eu sou o <strong>João Victor</strong> 👋</h1>
+        <h1 class="text-5xl max-lg:text-3xl font-bold">Olá, eu sou o <strong>João</strong> 👋</h1>
 
         <p class=" lg:text-lg">Sou um <strong>desenvolvedor front-end </strong>focado em<strong> criar interfaces incríveis</strong> proporcionando <strong>experiências interativas e marcantes.</strong></p>
 
