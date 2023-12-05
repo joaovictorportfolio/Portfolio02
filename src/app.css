@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  transition: transform 0.3s;
+}
+
+/* CLASSES */
+
+.clsBtn,.avatar{@apply hover:scale-105 !important}
+
+.active{@apply bg-primary text-white !important}
+
+/* ELEMENTOS */
+
+strong{@apply text-primary !important}
+
+
+
+/* EFEITO FLUTUAR */
+
+.flutuar {
+  animation: floatAnimation 5s ease-in-out infinite; /* Nome da animação, duração, tipo de easing e repetição */
+}
+
+@keyframes floatAnimation {
+  0% {
+    transform: translateY(0); /* Posição inicial - sem alteração */
+  }
+  50% {
+    transform: translateY(-10px); /* Move para cima */
+  }
+  100% {
+    transform: translateY(0); /* Retorna à posição inicial */
+  }
+}
