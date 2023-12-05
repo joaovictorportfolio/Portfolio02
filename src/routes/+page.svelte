@@ -17,7 +17,7 @@
 
       <figure class="w-1/3 max-xl:w-1/3 max-lg:w-[100%] max-sm:w-full max-lg:h-64 max-sm:h-52 overflow-hidden">
        
-        <img src="https://i.ibb.co/frDCqJ4/Group-27.png" class="max-lg:scale-[1] max-sm:scale-[0.8] origin-top w-full h-96 max-sm:-translate-y-2"/>
+        <img src="https://i.ibb.co/frDCqJ4/Group-27.png" class="max-lg:scale-[1] max-sm:scale-[0.8] origin-top w-full h-96 max-sm:-translate-y-2" alt="imagem"/>
 
       </figure>
   
